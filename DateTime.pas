@@ -6,4 +6,5 @@
     else println('Не високосный');
   end
   else println('Не високосный');
+  println('В минуте 60 секунд');
 end.
